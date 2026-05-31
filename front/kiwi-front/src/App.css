@@ -68,7 +68,7 @@
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
   padding: 3rem 2.5rem;
-  border-radius: 28px;
+  border-radius: 8px;
   width: 100%;
   max-width: 400px;
   box-sizing: border-box;
@@ -257,7 +257,6 @@
   background: linear-gradient(90deg, #32583f, #2c780b);
   color: white;
   border: none;
-  border-radius: 16px;
   cursor: pointer;
   font-size: 1.1rem;
   font-weight: 700;
